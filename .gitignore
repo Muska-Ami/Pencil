@@ -29,5 +29,3 @@ doc/api/
 # Do not commit JetBrains IDE configurations
 .idea/
 *.iml
-
-fonts/ProductSans*.ttf

@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "dev.dreta" "\0"
+            VALUE "CompanyName", "com.example" "\0"
             VALUE "FileDescription", "pencil" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "pencil" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 dev.dreta. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "pencil.exe" "\0"
             VALUE "ProductName", "pencil" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
